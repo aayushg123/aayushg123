@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aayush Gupta (@aayushg123)
 - 👀 I’m interested in learning web development tools and new algorithms.
 - 🌱 I’m currently learning back end tools (Node.js, Django).
-- 💞️ Open to learn cryptography and related tools to secure and build Next Gen Internet. 
+- 💞️ Interested to learn cryptanalysis. 
 - 📫 You may reach me at aayushgupta6std@gmail.com.
 
 <!---
